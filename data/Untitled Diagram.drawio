@@ -1,1 +1,28 @@
-<mxfile host="app.diagrams.net" modified="2022-07-05T03:33:21.121Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" version="20.0.4" etag="dOeZdhjRByqHwjrCWnHE" type="github"><diagram id="hOhBumZC9-CvxR034xT6">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-07-05T04:46:04.954Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="XMjWsYMlXsXY6QJyOC-z" version="20.0.4" type="github">
+  <diagram id="hOhBumZC9-CvxR034xT6" name="Page-1">
+    <mxGraphModel dx="771" dy="458" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="nI_rh2UEM4SlCN1rD2Qn-2" value="4 Bytes" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="160" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nI_rh2UEM4SlCN1rD2Qn-3" value="512 Bytes" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="190" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="nI_rh2UEM4SlCN1rD2Qn-4" value="version" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="190" y="160" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nI_rh2UEM4SlCN1rD2Qn-5" value="512 Bytes" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="280" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="nI_rh2UEM4SlCN1rD2Qn-6" value="&lt;span data-json=&quot;%7B%22type%22%3A%22text%22%2C%22data%22%3A%5B%7B%22type%22%3A1%2C%22style%22%3A%7B%7D%2C%22text%22%3A%22odr%20filename%22%7D%5D%7D&quot; class=&quot;mm-editor-clipboard&quot;&gt;odr filename&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="190" y="220" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nI_rh2UEM4SlCN1rD2Qn-7" value="&lt;span data-json=&quot;%7B%22type%22%3A%22text%22%2C%22data%22%3A%5B%7B%22type%22%3A1%2C%22style%22%3A%7B%7D%2C%22text%22%3A%223D%20model%20filename%22%7D%5D%7D&quot; class=&quot;mm-editor-clipboard&quot;&gt;3D model filename&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="190" y="310" width="60" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
